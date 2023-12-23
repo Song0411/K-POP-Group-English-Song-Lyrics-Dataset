@@ -13,9 +13,9 @@ The lyrics were manually collected through a process of copying and pasting from
 
 ## Cleaning and Preprocessing
 The collected lyrics underwent several preprocessing steps:  
-Removal of special characters and extraneous whitespace.  
-Conversion of all text to lowercase for uniformity.  
-Tokenization and lemmatization using spaCy for linguistic analysis.  
+🎵 Removal of special characters and extraneous whitespace.  
+🎵 Conversion of all text to lowercase for uniformity.  
+🎵 Tokenization and lemmatization using spaCy for linguistic analysis.  
 
 ## Annotations and Tools
 The dataset includes several annotations:  
@@ -26,13 +26,13 @@ Tools used for these annotations include Python's spaCy library for NLP tasks an
 
 ## Dataset Format and Column Description
 The dataset is available in two formats:
-Text files (.txt): Original and cleaned lyrics.  
-CSV file: This file includes the following columns:  
-Filename: Name of the original text file.  
-Document: The original lyrics as they appear in the text file.  
-Cleaned_Lyrics: Lyrics after preprocessing.  
-Tokens: Tokenized lyrics.  
-Lemmas: Lemmatized lyrics.  
-POS: Parts-of-speech tags for the lyrics.  
+🎵 Text files (.txt): Original and cleaned lyrics.  
+🎵 CSV file: This file includes the following columns:  
+🎵 Filename: Name of the original text file.  
+🎵 Document: The original lyrics as they appear in the text file.  
+🎵 Cleaned_Lyrics: Lyrics after preprocessing.  
+🎵 Tokens: Tokenized lyrics.  
+🎵 Lemmas: Lemmatized lyrics.  
+🎵 POS: Parts-of-speech tags for the lyrics.  
 
 
